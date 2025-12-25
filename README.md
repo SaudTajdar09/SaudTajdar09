@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently pursuing  BCA from United University, Prayagraj, India.<br>💬 Ask me about Python, HTML5 & CSS.<br>⚡ Fun fact
+👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently pursuing  BCA from United University, Prayagraj, India.<br>💬 Ask me about HTML5 , CSS , JavaScript, ReactJs & TailwindCSS.<br>
 
 
 ## 🌐 Socials:
